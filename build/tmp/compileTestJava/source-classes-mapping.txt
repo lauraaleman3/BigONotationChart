@@ -1,0 +1,12 @@
+com/tts/LogarithmicTimeAlgorithmTest.java
+ com.tts.LogarithmicTimeAlgorithmTest
+com/tts/QuadraticAlgorithmTest.java
+ com.tts.QuadraticAlgorithmTest
+com/tts/BigOTestSuite.java
+ com.tts.BigOTestSuite
+com/tts/ConstantTimeAlgorithmTest.java
+ com.tts.ConstantTimeAlgorithmTest
+com/tts/TestBase.java
+ com.tts.TestBase
+com/tts/LinearTimeAlgorithmTest.java
+ com.tts.LinearTimeAlgorithmTest
